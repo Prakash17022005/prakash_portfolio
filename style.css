@@ -92,6 +92,7 @@ body{
     font-size: 2rem;
 }
 
+
 .close_menu{
     display: none;
     font-size: 2rem;
@@ -173,6 +174,7 @@ body{
         
     }
 
+    
     .nav_link{
         font-size: 110%;
     }
